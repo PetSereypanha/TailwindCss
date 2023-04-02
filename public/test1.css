@@ -1,0 +1,11 @@
+li{
+    width: 80px;
+    height: 100%;
+    font-size: 20px;
+    padding-top: 25px;
+    padding-left: 10px;
+}
+li:hover{
+    color: #ffffff;
+    background: linear-gradient(#0000006b,#00000077);
+} 

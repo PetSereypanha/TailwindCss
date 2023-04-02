@@ -1,0 +1,4 @@
+.hov:hover img{
+    transform: scale(1.4);
+    transition: 1s;
+}
